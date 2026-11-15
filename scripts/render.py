@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render README.md: the outlined portrait (ascii.txt) beside a character
+"""Render README.md: the MAGI boot panel (magi.txt) beside a character
 sheet, with live GitHub stats when GITHUB_TOKEN is set. Plain ASCII only, so
 every line keeps its width in GitHub's monospace fonts.
 Usage: GITHUB_TOKEN=… GH_USER=pequdev python3 scripts/render.py"""
@@ -81,7 +81,7 @@ sheet = [
     "-" * 38,
     "> pequ.dev: case studies since 2006",
 ]
-art = open("ascii.txt").read().rstrip("\n").splitlines()
+art = open("magi.txt").read().rstrip("\n").splitlines()
 width = max(len(line) for line in art)
 top = 1
 rows = []

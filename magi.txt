@@ -1,0 +1,41 @@
+MAGI SYSTEM / PEQU.DEV                BOOT 2026.11
+==================================================
+[ OK ] power supply ...................... nominal
+[ OK ] evidence ledger ............... append-only
+[ OK ] Decalogue invariants .............. 10 / 10
+[ OK ] attackers ACHIRAL ............... sandboxed
+[ OK ] analysts online ..................... 3 / 3
+[ OK ] referee A.D.O.N.A.I. ................ armed
+[ >> ] awaiting case ......................... ...
+
+              +----------------------+
+              |     MELCHIOR - 1     |
+              |    the hermeneut     |
+              |   reads the words    |
+              +----------+-----------+
+                        / \
+                       /   \
+                      / MAGI\
+                     /_______\
+                    /         \
+   +---------------+-+       +-+---------------+
+   |  BALTHASAR - 2  |-------|   CASPER - 3    |
+   | the dialecticist |       | the empiricist  |
+   |  finds the gap  |       | reads the logs  |
+   +-----------------+       +-----------------+
+
+   CASE 0 ............................... RECEIVED
+     |
+     +--> MELCHIOR-1 .................. CONTRADICT
+     +--> BALTHASAR-2 .................... ABSTAIN
+     +--> CASPER-3 ....................... SUPPORT
+     |
+     v
+   DISAGREEMENT (JSD) ....................... 0.13
+   UNCERTAINTY INDEX ........................ 0.57
+     |
+     v
+   REFEREE >>> ESCALATE
+     |
+     v
+   [ A PERSON DECIDES ]
