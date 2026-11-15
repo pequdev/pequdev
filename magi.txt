@@ -20,7 +20,7 @@ MAGI SYSTEM / PEQU.DEV                BOOT 2026.11
                     /         \
    +---------------+-+       +-+---------------+
    |  BALTHASAR - 2  |-------|   CASPER - 3    |
-   | the dialecticist |       | the empiricist  |
+   | the dialecticist|       | the empiricist  |
    |  finds the gap  |       | reads the logs  |
    +-----------------+       +-----------------+
 
